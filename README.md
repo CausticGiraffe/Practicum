@@ -8,6 +8,15 @@ In this competition, you will develop algorithms to correctly classify cervix ty
 
 The submission format is asking for a probability for each of the three different cervix types.
 
+Data sets: Train, Test, and Additional Images
+Additional Images contains photos from the same patient appointment and vary in levels of quality, different angles and filters, etc.
+
+All images have a fixed white balance (android camera api) and a fixed cross polarized light source.
+All images have configurable working distance (225-450mm), manual focus, digital zoom (X1-X4), and file size. 
+
+In some images a green filter is applied to highlight blood vessals which will then appear black.
+In some images acidic acid has been applied, which paints abnormal celss white. Lugol's Iodine will cause abnormal cells to appear white and normal cells to appear dacker. 
+
 Steps:
 0. Explore Intel SDK Tools 
 1. Explore data and create dataframe for images
