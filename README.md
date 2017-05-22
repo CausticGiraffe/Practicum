@@ -27,8 +27,8 @@ Steps:
 6. Start CNN (Ensemble vs single model https://arxiv.org/abs/1704.00109) 
 
 Possible Models:
-VGGNet
-AlexNet(smaller)
-GoogleNet
-ResNet
+VGGNet, 
+AlexNet(smaller), 
+GoogleNet, 
+ResNet, 
 ImageNet - Natural images
