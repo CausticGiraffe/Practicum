@@ -25,3 +25,10 @@ Steps:
 4. Explore possiblity of reducing image size by RBG and greyscale
 5. Segment images
 6. Start CNN (Ensemble vs single model https://arxiv.org/abs/1704.00109) 
+
+Possible Models:
+VGGNet
+AlexNet(smaller)
+GoogleNet
+ResNet
+ImageNet - Natural images
