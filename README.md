@@ -32,3 +32,5 @@ AlexNet(smaller),
 GoogleNet, 
 ResNet, 
 ImageNet - Natural images
+
+Resource: Stanford CS 231n Convolutional Neural Networks for Visual Recognition http://cs231n.github.io/ 
